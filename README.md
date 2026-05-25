@@ -5,7 +5,6 @@ This project performs Exploratory Data Analysis (EDA) on Amazon product data to 
 
 The analysis focuses on understanding how discounts, product categories, and ratings influence customer purchasing value.
 
----
 
 ## Dataset
 The dataset contains Amazon product information including:
@@ -16,7 +15,7 @@ The dataset contains Amazon product information including:
 - Discount Percentage
 - Ratings
 
----
+
 
 ## Technologies Used
 - Python
@@ -25,7 +24,7 @@ The dataset contains Amazon product information including:
 - Matplotlib
 - Jupyter Notebook
 
----
+
 
 ## Project Workflow
 
